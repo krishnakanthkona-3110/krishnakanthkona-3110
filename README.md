@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Krishna Kanth
 
 <!--
 **krishnakanthkona-3110/krishnakanthkona-3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Krishna Kanth
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about AgenticAI, Machine Learning, and Backend Development
+- 📚 Currently learning: LangChain, RAG, LLMs
+- 🏢 Experience: TCS
+- 🌱 Exploring: Text-to-SQL, Vector Databases
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Krishna Kanth
+## Hi there,  I'm Krishna Kanth
 
 <!--
 **krishnakanthkona-3110/krishnakanthkona-3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
